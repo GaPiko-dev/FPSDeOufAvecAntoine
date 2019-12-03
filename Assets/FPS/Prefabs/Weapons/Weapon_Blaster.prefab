@@ -195,10 +195,10 @@ MonoBehaviour:
   recoilForce: 1
   aimZoomRatio: 0.5
   aimOffset: {x: 0, y: 0.075, z: 0}
-  ammoReloadRate: 16
-  ammoReloadDelay: 1
-  maxAmmo: 16
-  maxChargeDuration: 5
+  ammoReloadRate: 20
+  ammoReloadDelay: 0.3
+  maxAmmo: 60
+  maxChargeDuration: 10
   ammoUsedOnStartCharge: 1
   ammoUsageRateWhileCharging: 2
   muzzleFlashPrefab: {fileID: 748781637555137343, guid: 9f671b22f25370048a18fb1f821294ec,
