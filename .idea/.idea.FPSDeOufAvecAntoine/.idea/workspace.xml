@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="721dfcf1-99dd-490a-b833-0a8583dfd18a" name="Default Changelist" comment="" />
+    <list default="true" id="0b26ed53-0e27-4d8d-8aa5-903f7236ca96" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -12,10 +12,9 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/Assets/FPS/Scripts/PlayerInputHandler.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/FPS/Scripts/PatrolPath.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/FPS/Scripts/UI/DisplayMessage.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
-  <component name="ProjectId" id="1UT3TQtdXPb0S9yCNnHxQFrYkFF" />
+  <component name="ProjectId" id="1UT8fqXRDOY7IQcnmBZRts1scgC" />
   <component name="PropertiesComponent">
     <property name="Discover.Launch.Via.Unity" value="true" />
     <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
@@ -55,13 +54,12 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="721dfcf1-99dd-490a-b833-0a8583dfd18a" name="Default Changelist" comment="" />
-      <created>1575366766134</created>
+      <changelist id="0b26ed53-0e27-4d8d-8aa5-903f7236ca96" name="Default Changelist" comment="" />
+      <created>1575369333211</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1575366766134</updated>
-      <workItem from="1575366772988" duration="262000" />
-      <workItem from="1575372008578" duration="599000" />
+      <updated>1575369333211</updated>
+      <workItem from="1575369345524" duration="42000" />
     </task>
     <servers />
   </component>
@@ -75,9 +73,7 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State>
-              <option name="COLUMN_ORDER" />
-            </State>
+            <State />
           </value>
         </entry>
       </map>
